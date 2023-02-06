@@ -31,9 +31,9 @@ Please read this guide before creating a new issue. Thanks!
 
 - A: Just save in the game and wait a few seconds. An auto-saving banner will appear, and your saved data will automatically be stored in the web app's local storage. On iOS, you must add the site to Home Screen first, and **your data will be deleted** when the Home Screen icon is removed.
 
-**Q: Do I have to export the savegame?**
+**Q: Do I have to backup/restore the savegame in the menu?**
 
-- A: You DON'T have to export the savegame manually since auto-saving is present. To prevent data loss caused by accidental deletion of the Home Screen icon or damaged device, you may manually export the saved data to a safe place.
+- A: You **don't need to backup/restore** the savegame manually since auto-saving is present, just save in the game and wait a few seconds. To prevent data loss caused by accidental deletion of the Home Screen icon or damaged device, you may connect to dropbox to enable automatic cloud backup.
 
 **Q: After importing the savegame, it takes me back to the main menu.**
 
